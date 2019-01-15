@@ -1,6 +1,6 @@
 <img src="logo.png"/>
-
 <h1 align=center><font size = 5> REINFORCEMENT LEARNING: FROM BASIC TO ADVANCED</font></h1>
+
 ##  Table of contents
 <div class="alert alert-block alert-info" style="margin-top: 20px">
 <br>
