@@ -4,14 +4,14 @@
 ##  Table of contents
 <div class="alert alert-block alert-info" style="margin-top: 20px">
 <br>
-- <p><a href="#ref1">Goals?</a></p>
-- <p><a href="#ref2">Requirements?</a></p>
-- <p><a href="#ref3">What is Reinforcement Learning?</a></p>
-- <p><a href="#ref4">Reinforcement Learning Approaches?</a></p>
-- <p><a href="#ref4">Deep Reinforcement Learning?</a></p>
-- <p><a href="#ref6">Research Areas?</a></p>
-- <p><a href="#ref6">Conclusion?</a></p>
-- <p><a href="#ref7">References?</a></p>
+<p><a href="#ref1">Goals?</a></p>
+<p><a href="#ref2">Requirements?</a></p>
+<p><a href="#ref3">What is Reinforcement Learning?</a></p>
+<p><a href="#ref4">Reinforcement Learning Approaches?</a></p>
+<p><a href="#ref4">Deep Reinforcement Learning?</a></p>
+<p><a href="#ref6">Research Areas?</a></p>
+<p><a href="#ref6">Conclusion?</a></p>
+<p><a href="#ref7">References?</a></p>
 <p></p>
 </div>
 <br>
